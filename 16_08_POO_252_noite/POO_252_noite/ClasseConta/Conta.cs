@@ -16,5 +16,11 @@ namespace ClasseConta //namespace é uma pasta
         {}
         public void Depositar()
         {}
+        public void MostrarAtributos()
+        {
+            Console.WriteLine("Número: " + numero);
+            Console.WriteLine("Titular: " + titular);
+            Console.WriteLine("Saldo: " + saldo);
+        }
     }
 }
