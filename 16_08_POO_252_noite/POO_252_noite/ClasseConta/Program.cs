@@ -7,6 +7,8 @@ c1.numero = 1; //objeto.atributo = 1
 c1.titular = "Ana";
 c1.saldo = 100;
 c1.MostrarAtributos();
+c1.Sacar(10);
+c1.MostrarAtributos();
 
 //outra instanciação
 Conta c2 = new Conta();
@@ -17,4 +19,5 @@ c2.titular = Console.ReadLine();
 Console.Write("Digite o saldo: ");
 c2.saldo = Convert.ToDouble(Console.ReadLine()); 
 c2.MostrarAtributos();
-
+c2.Depositar(50);
+c2.MostrarAtributos();
