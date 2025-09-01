@@ -1,0 +1,14 @@
+D:\POO_252_noite\ListFuncionario\bin\Debug\net8.0\ListFuncionario.exe
+D:\POO_252_noite\ListFuncionario\bin\Debug\net8.0\ListFuncionario.deps.json
+D:\POO_252_noite\ListFuncionario\bin\Debug\net8.0\ListFuncionario.runtimeconfig.json
+D:\POO_252_noite\ListFuncionario\bin\Debug\net8.0\ListFuncionario.dll
+D:\POO_252_noite\ListFuncionario\bin\Debug\net8.0\ListFuncionario.pdb
+D:\POO_252_noite\ListFuncionario\obj\Debug\net8.0\ListFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252_noite\ListFuncionario\obj\Debug\net8.0\ListFuncionario.AssemblyInfoInputs.cache
+D:\POO_252_noite\ListFuncionario\obj\Debug\net8.0\ListFuncionario.AssemblyInfo.cs
+D:\POO_252_noite\ListFuncionario\obj\Debug\net8.0\ListFuncionario.csproj.CoreCompileInputs.cache
+D:\POO_252_noite\ListFuncionario\obj\Debug\net8.0\ListFuncionario.dll
+D:\POO_252_noite\ListFuncionario\obj\Debug\net8.0\refint\ListFuncionario.dll
+D:\POO_252_noite\ListFuncionario\obj\Debug\net8.0\ListFuncionario.pdb
+D:\POO_252_noite\ListFuncionario\obj\Debug\net8.0\ListFuncionario.genruntimeconfig.cache
+D:\POO_252_noite\ListFuncionario\obj\Debug\net8.0\ref\ListFuncionario.dll

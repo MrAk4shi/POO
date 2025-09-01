@@ -1,0 +1,14 @@
+D:\POO_252_noite\VetorConta\bin\Debug\net8.0\VetorConta.exe
+D:\POO_252_noite\VetorConta\bin\Debug\net8.0\VetorConta.deps.json
+D:\POO_252_noite\VetorConta\bin\Debug\net8.0\VetorConta.runtimeconfig.json
+D:\POO_252_noite\VetorConta\bin\Debug\net8.0\VetorConta.dll
+D:\POO_252_noite\VetorConta\bin\Debug\net8.0\VetorConta.pdb
+D:\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.AssemblyInfoInputs.cache
+D:\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.AssemblyInfo.cs
+D:\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.csproj.CoreCompileInputs.cache
+D:\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.dll
+D:\POO_252_noite\VetorConta\obj\Debug\net8.0\refint\VetorConta.dll
+D:\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.pdb
+D:\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.genruntimeconfig.cache
+D:\POO_252_noite\VetorConta\obj\Debug\net8.0\ref\VetorConta.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\POO\\POO\\16_08_POO_252_noite\\POO_252_noite\\Revisao\\Revisao.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\a\\POO\\16_08_POO_252_noite\\POO_252_noite\\Revisao\\Revisao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\POO\\POO\\16_08_POO_252_noite\\POO_252_noite\\Revisao\\Revisao.csproj": {
+    "C:\\Users\\aluno\\Desktop\\a\\POO\\16_08_POO_252_noite\\POO_252_noite\\Revisao\\Revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\POO\\POO\\16_08_POO_252_noite\\POO_252_noite\\Revisao\\Revisao.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\a\\POO\\16_08_POO_252_noite\\POO_252_noite\\Revisao\\Revisao.csproj",
         "projectName": "Revisao",
-        "projectPath": "C:\\Users\\aluno\\POO\\POO\\16_08_POO_252_noite\\POO_252_noite\\Revisao\\Revisao.csproj",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\a\\POO\\16_08_POO_252_noite\\POO_252_noite\\Revisao\\Revisao.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\POO\\POO\\16_08_POO_252_noite\\POO_252_noite\\Revisao\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\a\\POO\\16_08_POO_252_noite\\POO_252_noite\\Revisao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

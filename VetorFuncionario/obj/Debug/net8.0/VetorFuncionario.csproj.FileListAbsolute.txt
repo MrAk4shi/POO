@@ -1,0 +1,14 @@
+D:\POO_252_noite\VetorFuncionario\bin\Debug\net8.0\VetorFuncionario.exe
+D:\POO_252_noite\VetorFuncionario\bin\Debug\net8.0\VetorFuncionario.deps.json
+D:\POO_252_noite\VetorFuncionario\bin\Debug\net8.0\VetorFuncionario.runtimeconfig.json
+D:\POO_252_noite\VetorFuncionario\bin\Debug\net8.0\VetorFuncionario.dll
+D:\POO_252_noite\VetorFuncionario\bin\Debug\net8.0\VetorFuncionario.pdb
+D:\POO_252_noite\VetorFuncionario\obj\Debug\net8.0\VetorFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252_noite\VetorFuncionario\obj\Debug\net8.0\VetorFuncionario.AssemblyInfoInputs.cache
+D:\POO_252_noite\VetorFuncionario\obj\Debug\net8.0\VetorFuncionario.AssemblyInfo.cs
+D:\POO_252_noite\VetorFuncionario\obj\Debug\net8.0\VetorFuncionario.csproj.CoreCompileInputs.cache
+D:\POO_252_noite\VetorFuncionario\obj\Debug\net8.0\VetorFuncionario.dll
+D:\POO_252_noite\VetorFuncionario\obj\Debug\net8.0\refint\VetorFuncionario.dll
+D:\POO_252_noite\VetorFuncionario\obj\Debug\net8.0\VetorFuncionario.pdb
+D:\POO_252_noite\VetorFuncionario\obj\Debug\net8.0\VetorFuncionario.genruntimeconfig.cache
+D:\POO_252_noite\VetorFuncionario\obj\Debug\net8.0\ref\VetorFuncionario.dll

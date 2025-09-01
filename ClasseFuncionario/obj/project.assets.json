@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\POO\\POO\\ClasseFuncionario\\ClasseFuncionario.csproj",
+      "projectUniqueName": "D:\\POO_252_noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
       "projectName": "ClasseFuncionario",
-      "projectPath": "C:\\Users\\aluno\\POO\\POO\\ClasseFuncionario\\ClasseFuncionario.csproj",
+      "projectPath": "D:\\POO_252_noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\POO\\POO\\ClasseFuncionario\\obj\\",
+      "outputPath": "D:\\POO_252_noite\\ClasseFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

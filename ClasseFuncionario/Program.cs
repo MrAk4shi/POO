@@ -1,25 +1,22 @@
-﻿using ClasseFuncionario;
-
-//funcionario 1
-Funcionario f1 = new Funcionario();
-Console.Write("Digite o código: ");
-f1.codigo = Convert.ToInt32(Console.ReadLine());
-Console.Write("Digite o nome: ");
-f1.nome = Console.ReadLine();
-Console.Write("Digite o salario: ");
-f1.salario = Convert.ToDouble(Console.ReadLine()); 
-f1.MostrarAtributos();
-f1.CalcAumento();
-f1.MostrarAtributos();
-
-//funcionario 2
-Funcionario f2 = new Funcionario();
-Console.Write("Digite o código: ");
-f2.codigo = Convert.ToInt32(Console.ReadLine());
-Console.Write("Digite o nome: ");
-f2.nome = Console.ReadLine();
-Console.Write("Digite o salario: ");
-f2.salario = Convert.ToDouble(Console.ReadLine()); 
-f2.MostrarAtributos();
-f2.CalcAumento();
-f2.MostrarAtributos();
+﻿using ClasseFuncionario;//usando a namespace
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Funcionario f1 = new Funcionario();
+        f1.codigo = 1;
+        f1.nome = "Ana";
+        f1.salario = 1000;
+        f1.MostrarAtributos();
+        f1.CalcularAumento();
+        f1.MostrarAtributos();
+        
+        Funcionario f2 = new Funcionario();
+        f2.codigo = 2;
+        f2.nome = "Bia";
+        f2.salario = 200;
+        f2.MostrarAtributos();
+        f2.CalcularAumento();
+        f2.MostrarAtributos();
+    }
+}
