@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.AssemblyInfo.cs
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.sourcelink.json
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\bin\Debug\net8.0\EncapsulamentoConta.exe
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\bin\Debug\net8.0\EncapsulamentoConta.deps.json
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\bin\Debug\net8.0\EncapsulamentoConta.runtimeconfig.json
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\bin\Debug\net8.0\EncapsulamentoConta.dll
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\bin\Debug\net8.0\EncapsulamentoConta.pdb
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.dll
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\obj\Debug\net8.0\refint\EncapsulamentoConta.dll
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.pdb
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.genruntimeconfig.cache
+C:\Users\aluno\Desktop\a\POO\EncapsulamentoConta\obj\Debug\net8.0\ref\EncapsulamentoConta.dll
