@@ -1,0 +1,4 @@
+D:\POO_252_noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252_noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.AssemblyInfoInputs.cache
+D:\POO_252_noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.AssemblyInfo.cs
+D:\POO_252_noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.csproj.CoreCompileInputs.cache
