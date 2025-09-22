@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.sourcelink.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.exe
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.deps.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.runtimeconfig.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.pdb
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\obj\Debug\net8.0\refint\AgregacaoVetorConta.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.pdb
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\AgregacaoVetorConta\obj\Debug\net8.0\ref\AgregacaoVetorConta.dll
