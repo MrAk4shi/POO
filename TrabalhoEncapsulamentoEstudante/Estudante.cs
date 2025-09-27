@@ -1,21 +1,58 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace EncapsulamentoEstudante
+namespace TrabalhoEncapsulamentoEstudante
 {
     public class Estudante
     {
-        /* Criar a classe Estudante (nome (get;set;), media), 
-        implemente o encapsulamento dos atributos com validações 
-        e o método ExibirDetalhes(), a média só pode estar 
-        dentro dos valor de 0 a 10, realize no mínimo 2 instâncias. 
-        Desenvolver os métodos:  
-        bool EstaAprovado(), true/false siga a regra >= 6 
-        void ExibirInformações(), use o WriteLine e
-        acrescente o texto "Status", onde deverá ser chamado o 
-        método anterior. Dica use o operador ternário 
-        */
+        private string? nome;
+        private double nota;
+
+        public string? Nome
+        {
+            get
+            {
+                return nome != null ? nome.ToUpper() : null; // retorna sempre em maiúsculo
+            }
+            set
+            {
+                nome = value;
+            }
+        }
+
+        public double Nota
+        {
+            get
+            {
+                return nota;
+            }
+            set
+            {
+                if (value >= 0 && value <= 10)
+                {
+                    nota = value;
+                }
+                else
+                {
+                    Console.WriteLine("A nota deve estar entre 0 e 10. Valor ignorado!");
+                }
+            }
+        }
+
+        // métodos
+        public void ExibirDetalhes()
+        {
+            Console.WriteLine("Nome: " + Nome + "\tNota: " + nota);
+        }
+
+        public bool EstaAprovado()
+        {
+            return nota >= 6;
+        }
+
+        public void ExibirInformacoes()
+        {
+            Console.WriteLine("Nome: " + Nome + "\tNota: " + nota);
+            Console.WriteLine("Status: " + (EstaAprovado() ? "Aprovado" : "Reprovado"));
+        }
     }
 }

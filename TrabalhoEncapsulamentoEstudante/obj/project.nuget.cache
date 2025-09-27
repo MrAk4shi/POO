@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "l8q/NwU6Pq0=",
+  "dgSpecHash": "nrFxd9A9RMI=",
   "success": true,
-  "projectFilePath": "D:\\POO_252_noite\\EncapsulamentoEstudante\\EncapsulamentoEstudante.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ryzen\\OneDrive\\Fatec\\4º Módulo\\POO\\POO - VSCode\\POO\\TrabalhoEncapsulamentoEstudante\\EncapsulamentoEstudante.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryzen\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\Ryzen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\Ryzen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\Ryzen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.14\\microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
