@@ -15,10 +15,16 @@ d1.AdmitirFuncionario(a1);
 d1.AdmitirFuncionario(c1);
 d1.Mostrar();
 d1.ListarFuncionarios();
+System.Console.WriteLine($"Total {d1.CalcularFolha(30):c}");
+
 
 Departamento d2 = new Departamento(12, "RH");
 d2.VetF = new List<Funcionario>();
 d2.AdmitirFuncionario(a2);
 d2.AdmitirFuncionario(c2);
 d2.Mostrar();
+d2.ListarFuncionarios();
+System.Console.WriteLine($"Total {d2.CalcularFolha(30):c}");
+//o número 2 é o código do funcionário que quero excluir
+d2.DemitirFuncionario(2);
 d2.ListarFuncionarios();
